@@ -5,7 +5,7 @@ A tribute to one of my favourite show Silicon Valley, It's a hot dod not hot dog
 <img src="https://raw.githubusercontent.com/Aayush9029/hotdognothotdog/main/readme-assets/yang-gif.gif">
 
 ### First we collect some data.
- - Download images via google, bing, or anywhere you want *there are tons of scraping scripts*
+ - Download images via google, bing, or anywhere you want *there are tons of scraping scripts**
    - Images I used to tranin the model:
       - Hot Dogs
       - Not Hot Dogs
@@ -26,3 +26,8 @@ A tribute to one of my favourite show Silicon Valley, It's a hot dod not hot dog
 
 
 ### That's it the model is ready to serve.
+
+---
+> *Here's a great bulk image downloader, uses *bing*;
+>
+> https://pypi.org/project/bing-image-downloader/
