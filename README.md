@@ -1,3 +1,5 @@
+# [LinkedIn Post](https://www.linkedin.com/posts/aayush-p-616b6b16a_hotdognothotdog-siliconvalley-activity-6746699708116328448-W8DP)
+
 # hotdognothotdog
 A tribute to one of my favourite show Silicon Valley, It's a hot dod not hot dog classier written in swift UI.
 
@@ -26,6 +28,11 @@ A tribute to one of my favourite show Silicon Valley, It's a hot dod not hot dog
 
 
 ### That's it the model is ready to serve.
+
+
+
+
+
 
 ---
 > *Here's a great bulk image downloader, uses *bing*;
